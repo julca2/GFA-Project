@@ -1,0 +1,1 @@
+select*from 'reliable-airway-391712.Jul_Dataset.v3'

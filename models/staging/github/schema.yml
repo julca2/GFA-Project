@@ -1,0 +1,5 @@
+version: 2
+
+models:
+- name: github.sql
+    descriprion: Table github that is a representative sample of 2022 from githubarchive big query.

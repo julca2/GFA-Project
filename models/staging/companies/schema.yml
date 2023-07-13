@@ -1,0 +1,5 @@
+version: 2
+
+models:
+- name: companies.sql
+    descriprion: Table companies that displays organizations, their focus, repository accounts and names, open sources.
