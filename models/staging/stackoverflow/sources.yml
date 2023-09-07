@@ -1,0 +1,5 @@
+sources:
+  - name: Jul_Dataset
+    tables:
+      - name: so_posts_answers
+      - name: so_posts_qustions

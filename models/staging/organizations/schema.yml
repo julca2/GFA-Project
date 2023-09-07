@@ -1,0 +1,44 @@
+ version: 2
+
+models:
+  - name: stg_organizations
+    description: ""
+    columns:
+      - name: _pk
+        description: ""
+
+      - name: l2_type
+        description: ""
+
+      - name: organization
+        description: ""
+
+      - name: l1_type
+        description: ""
+
+      - name: repository_account
+        description: ""
+
+      - name: repository_name
+        description: ""
+
+      - name: l3_type
+        description: ""
+
+      - name: is_open_source_available
+        description: ""
+
+      - name: tags
+        description: ""
+
+      - name: _airbyte_ab_id
+        description: ""
+
+      - name: _airbyte_emitted_at
+        description: ""
+
+      - name: _airbyte_normalized_at
+        description: ""
+
+      - name: _airbyte_v1_hashid
+        description: ""

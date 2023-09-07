@@ -1,0 +1,4 @@
+sources:
+  - name: Jul_Dataset
+    tables:
+      - name: github_organizations

@@ -1,5 +1,63 @@
-version: 2
-
 models:
-- name: github.sql
-    descriprion: Table github that is a representative sample of 2022 from githubarchive big query.
+  - name: stg_github
+    description: ""
+    columns:
+      - name: _pk
+        description: "primary key"
+
+      - name: type
+        description: ""
+
+      - name: is_public
+        description: ""
+
+      - name: payload
+        description: ""
+
+      - name: repo_id
+        description: ""
+
+      - name: repo_name
+        description: ""
+
+      - name: repo_url
+        description: ""
+
+      - name: actor_id
+        description: ""
+
+      - name: actor_login
+        description: ""
+
+      - name: actor_gravatar_id
+        description: ""
+
+      - name: actor_avatar_url
+        description: ""
+
+      - name: actor_url
+        description: ""
+
+      - name: org_id
+        description: ""
+
+      - name: org_login
+        description: ""
+
+      - name: org_gravatar_id
+        description: ""
+
+      - name: org_avatar_url
+        description: ""
+
+      - name: org_url
+        description: ""
+
+      - name: created_at_datetime_utc
+        description: ""
+
+      - name: id
+        description: ""
+
+      - name: other
+        description: ""

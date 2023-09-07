@@ -1,1 +1,0 @@
-select*from 'reliable-airway-391712.Jul_Dataset.so_posts_qustions'
